@@ -1,1 +1,1 @@
-This portfolio website serves as a showcase of Vivek Kumar's skills, projects, and contact information.
+This portfolio website serves as a showcase of my  skills, projects, and contact information.
